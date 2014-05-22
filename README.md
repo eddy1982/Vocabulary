@@ -1,6 +1,27 @@
 Vocabulary
 ==========
 
+enumerate
+---------
+
+verb
+
+synonyms:	list, itemize, catalogue, set out, set forth, give; More
+
+> mention (a number of things) one by one.
+"there is not space to enumerate all his works"
+synonyms:	list, itemize, catalogue, set out, set forth, give; More
+cite, name, mention, specify, identify, spell out, detail, particularize;
+summarize, recount, recite, rehearse, recapitulate, quote, relate;
+run through, reel off, rattle off, tick/check off
+"he enumerated four objectives for the company"
+
+> formal
+
+> establish the number of.
+"6,079 residents were enumerated in 241 establishments"
+synonyms:	calculate, compute, count, add up, sum up, tally, total, number, put a figure on, quantify; More
+
 forefront
 ---------
 > the position of most prominence, responsibility, or action
