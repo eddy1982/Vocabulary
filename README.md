@@ -18,6 +18,7 @@ ease
 forthright
 ----------
 adjective
+
 synonyms:	frank, direct, straightforward, honest, candid, open, sincere, straight, straight to the point, blunt, plain-spoken, outspoken, downright, uninhibited, unreserved, point blank, no-nonsense, matter-of-fact, bluff, undiplomatic, tactless; More
 antonyms:	secretive, dishonest
 > 1.
@@ -30,6 +31,7 @@ proceeding directly forwards.
 immerse
 -------
 verb
+
 synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
 
 > 1.
@@ -46,6 +48,7 @@ synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
 dabble
 ------
 verb
+
 past tense: dabbled; past participle: dabbled
 synonyms:	splash, dip, paddle, wet, moisten, dampen, immerse, trail More
 
@@ -63,6 +66,7 @@ synonyms:	toy with, dip into, scratch the surface of, flirt with, tinker with, p
 intuitive
 ---------
 adjective
+
 > 1.
 using or based on what one feels to be true even without conscious reasoning; instinctive.
 "his intuitive understanding of the readers' real needs"
