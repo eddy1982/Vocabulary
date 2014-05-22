@@ -50,6 +50,7 @@ dabble
 verb
 
 past tense: dabbled; past participle: dabbled
+
 synonyms:	splash, dip, paddle, wet, moisten, dampen, immerse, trail More
 
 > 1.
