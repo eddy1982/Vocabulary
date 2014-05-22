@@ -24,6 +24,7 @@ antonyms:	secretive, dishonest
 > 1.
 (of a person or their manner or speech) direct and outspoken.
 "his most forthright attack yet on the reforms"
+
 > 2.
 archaic
 proceeding directly forwards.
@@ -40,6 +41,7 @@ dip or submerge in a liquid.
 synonyms:	submerge, plunge, dip, dunk, duck, sink; More
 baptize (someone) by immersion in water.
 synonyms:	baptize, christen; More
+
 > 2.
 involve oneself deeply in a particular activity.
 "she immersed herself in her work"
@@ -59,6 +61,7 @@ immerse (one's hands or feet) partially in water and move them around gently.
 synonyms:	splash, dip, paddle, wet, moisten, dampen, immerse, trail More
 (of a duck or other waterbird) move the bill around in shallow water while feeding.
 "teal dabble in the shallows"
+
 > 2.
 take part in an activity in a casual or superficial way.
 "he dabbled in left-wing politics"
