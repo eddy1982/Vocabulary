@@ -30,6 +30,8 @@ proceeding directly forwards.
 immerse
 -------
 verb
+synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
+
 > 1.
 dip or submerge in a liquid.
 "immerse the paper in water for twenty minutes"
@@ -37,7 +39,7 @@ synonyms:	submerge, plunge, dip, dunk, duck, sink; More
 baptize (someone) by immersion in water.
 synonyms:	baptize, christen; More
 > 2.
-involve oneself deeply in a particular activity.
+*involve oneself deeply in a particular activity.*
 "she immersed herself in her work"
 synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
 
@@ -45,6 +47,8 @@ dabble
 ------
 verb
 past tense: dabbled; past participle: dabbled
+synonyms:	splash, dip, paddle, wet, moisten, dampen, immerse, trail More
+
 > 1.
 immerse (one's hands or feet) partially in water and move them around gently.
 "they dabbled their feet in the rock pools"
@@ -72,7 +76,7 @@ informalgut
 
 tenuous
 -------
-Very weak or slight.
+*Very weak* or slight.
 If anything is true about financial markets, they are inherently unpredictable.
 
 inherently
