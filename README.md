@@ -39,7 +39,7 @@ synonyms:	submerge, plunge, dip, dunk, duck, sink; More
 baptize (someone) by immersion in water.
 synonyms:	baptize, christen; More
 > 2.
-*involve oneself deeply in a particular activity.*
+involve oneself deeply in a particular activity.
 "she immersed herself in her work"
 synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
 
@@ -76,7 +76,7 @@ informalgut
 
 tenuous
 -------
-*Very weak* or slight.
+Very weak or slight.
 If anything is true about financial markets, they are inherently unpredictable.
 
 inherently
