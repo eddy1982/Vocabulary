@@ -1,14 +1,22 @@
 Vocabulary
 ==========
 
-forefront - the position of most prominence, responsibility, or action
+forefront
+---------
+the position of most prominence, responsibility, or action
 
-ambiguous - equivocal - vague - uncertain - doubtful - obscure
-    unclear or inexact because a choice between alternative has not been made, open to more than one interpretation; having a double meaning.
+ambiguous
+---------
+equivocal - vague - uncertain - doubtful - obscure
+
+unclear or inexact because a choice between alternative has not been made, open to more than one interpretation; having a double meaning.
     
-ease - the state of being comfortable, relief from discomfort or obligation, allevation, comfort, release, relife
+ease
+----
+the state of being comfortable, relief from discomfort or obligation, allevation, comfort, release, relife
 
 forthright
+----------
 adjective
 1.
 (of a person or their manner or speech) direct and outspoken.
@@ -20,6 +28,7 @@ archaic
 proceeding directly forwards.
 
 immerse
+-------
 verb
 1.
 dip or submerge in a liquid.
@@ -33,6 +42,7 @@ involve oneself deeply in a particular activity.
 synonyms:	absorb, engross, occupy, engage, involve, engulf, bury; More
 
 dabble
+------
 verb
 past tense: dabbled; past participle: dabbled
 1.
@@ -47,29 +57,35 @@ take part in an activity in a casual or superficial way.
 synonyms:	toy with, dip into, scratch the surface of, flirt with, tinker with, potter about/around/round with, trifle with, play with, fiddle with, dally with, have a smattering of More
 
 intuitive
+---------
 adjective
-
-    1.
-    using or based on what one feels to be true even without conscious reasoning; instinctive.
-    "his intuitive understanding of the readers' real needs"
-    synonyms:	instinctive, intuitional, instinctual;
-    innate, inborn, inherent, untaught, unlearned,natural, congenital, inbuilt, built-in, ingrown;
-    automatic, unconscious, subconscious,involuntary, spontaneous, impulsive, unthinking;
-    informalgut
-    "he had an intuitive grasp of people's moods"
+1.
+using or based on what one feels to be true even without conscious reasoning; instinctive.
+"his intuitive understanding of the readers' real needs"
+synonyms:	instinctive, intuitional, instinctual;
+innate, inborn, inherent, untaught, unlearned,natural, congenital, inbuilt, built-in, ingrown;
+automatic, unconscious, subconscious,involuntary, spontaneous, impulsive, unthinking;
+informalgut
+"he had an intuitive grasp of people's moods"
 
 Intuition is the ability to acquire knowledge without inference and/or the use ofreason.[1] The word intuition comes from Latin verb intueri which is usually translated as to look inside or to contemplate.[2] Intuition is thus often conceived as a kind of inner perception, sometimes regarded as real lucidity orunderstanding
 
-tenuous: Very weak or slight.
+tenuous
+-------
+Very weak or slight.
 If anything is true about financial markets, they are inherently unpredictable.
 
-inherently: belonging to the basic nature of someone or something
+inherently
+----------
+belonging to the basic nature of someone or something
 
 formidable
+----------
 inspiring fear or respect through being impressively large, powerful, intense, or capable.
 intimidating, forbidding, redoubtable, daunting, alarming, frightening,
 
 disparity
+---------
 a great difference.
 "huge wealth disparity"
 "economic disparities between different regions of the country"
