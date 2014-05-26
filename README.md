@@ -1,6 +1,27 @@
 Vocabulary
 ==========
 
+
+explicitly
+----------
+adjective
+
+Synonyms 
+express, definite, precise, exact, unambiguous. open, forthright, unabashed.
+
+
+> 1.
+fully and clearly expressed or demonstrated; leaving nothing merely implied; unequivocal: explicit instructions; an explicit act of violence; explicit language.
+
+> 2.
+clearly developed or formulated: explicit knowledge; explicit belief.
+
+> 3.
+definite and unreserved in expression; outspoken: He was quite explicit as to what he expected us to do for him.
+
+
+
+
 enumerate
 ---------
 
